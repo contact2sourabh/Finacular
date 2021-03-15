@@ -1,0 +1,81 @@
+        body {
+            margin: 0;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+        
+        code {
+            font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+        }
+        
+        .Bargraph {
+            position: relative;
+            top: 95px;
+            left: 270px;
+            height: 300px;
+            width: 600px;
+        }
+        
+        .photo {
+            height: 150px;
+            width: 280px;
+        }
+        
+        .card {
+            position: relative;
+            left: 1150px;
+            top: -200px;
+            flex-direction: row;
+            height: 150px;
+            width: 180px;
+            font-size: smaller;
+        }
+        
+        .card2 {
+            position: relative;
+            left: 1150px;
+            top: -70px;
+            flex-direction: row;
+            height: 150px;
+            width: 180px;
+            font-size: smaller;
+        }
+        
+        #learnmore {
+            background-color: blue;
+        }
+        
+        .button {
+            background-color: blue;
+        }
+        
+        .money {
+            position: relative;
+            left: 180px;
+            top: -200px;
+        }
+        
+        .finance {
+            position: relative;
+            left: 180px;
+            top: -180px;
+        }
+        
+        .inflation {
+            position: relative;
+            left: 500px;
+            top: -520px;
+        }
+        
+        .expense {
+            position: relative;
+            left: 500px;
+            top: -500px;
+        }
+        
+        .investment {
+            position: relative;
+            left: 820px;
+            top: -880px;
+        }
